@@ -1,6 +1,6 @@
 # React native bare application with typescript support
 
-## This application uses ImgFy as app name
+## This application uses RNBareTS as app name
 
 ### To change name follow instructions from the blog: [Quick guide for updating package name in React Native](https://dev.to/karanpratapsingh/quick-guide-for-updating-package-name-in-react-native-3ei3)
 
