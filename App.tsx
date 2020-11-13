@@ -4,7 +4,7 @@ import RNBootSplash from 'react-native-bootsplash'
 
 const App: React.FC = () => {
   useEffect(() => {
-    RNBootSplash.hide()
+    RNBootSplash.hide({ duration: 250 })
   }, [])
   return (
     <View style={styles.container}>
